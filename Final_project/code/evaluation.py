@@ -51,7 +51,7 @@ if __name__ == "__main__":
 
     # Convert predictions to integer labels if necessary
     predictions = np.argmax(predictions, axis=1)  # Ensure predictions are in integer format
-    
+        
     # Calculate classification accuracy
     logger.info("Calculating accuracy.")
     accuracy = accuracy_score(y_test, predictions)

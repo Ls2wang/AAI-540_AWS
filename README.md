@@ -1,5 +1,8 @@
 # aai_540
 AAI_540 Final Project Repo
+
+Contributors: Ryan Laxamana, Dina Shalaby, Lishi Wang
+
 Project Background: Optimizing Patient Care with Advanced Predictive Modeling
 In this project, the primary objective is to optimize hospital operations by accurately predicting the length of patient stays. This prediction is essential for improving resource allocation, including staff scheduling, bed management, and overall hospital capacity. Accurately forecasting patient stays will enhance the efficiency of care delivery, minimize wait times, and potentially reduce costs. By leveraging advanced machine learning techniques, the goal is to create a robust model that can predict patient stays based on various patient and hospital-related features.
 

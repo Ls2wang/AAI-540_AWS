@@ -34,8 +34,8 @@ The project will not attempt to address broader healthcare policy or financial d
 ![image](https://github.com/user-attachments/assets/c12e3d5b-493f-478f-ad97-0573a1f51bed)
 
 Repo Structure:
-Final_Project/AAI-540_Group-8_notebook.ipynb -> Notebook with all implementation
-Final_Project/code -> Generated pipeline scripts
+Final_Project/AAI-540_Group-8_notebook.ipynb -> Notebook with all implementation <br>
+Final_Project/code -> Generated pipeline scripts <br>
 Final_Project/dataset -> Dataset used.
 
 Developement done primarily on AWS. Any data used or generated was stored in S3.
